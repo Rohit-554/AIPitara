@@ -1,6 +1,8 @@
-# AIPitara - The new way to learn
+# AIPitara
+> From Bored to Board—Smash Those Study Goals
 
-Pitara is a Flutter-based mobile application that utilizes AI to provide users with quiz questions from various subjects like Data Structures and Algorithms (DSA), Object-Oriented Programming (OOPs), and more. It aims to help users enhance their knowledge and skills in these areas through engaging quizzes and interactive learning experiences.
+
+AIPitara is a Flutter-based mobile application that utilizes AI to provide users with quiz questions from various subjects like Data Structures and Algorithms (DSA), Object-Oriented Programming (OOPs), and more. It aims to help users enhance their knowledge and skills in these areas through engaging quizzes and interactive learning experiences.
 
 ## Features
 
@@ -13,7 +15,16 @@ Pitara is a Flutter-based mobile application that utilizes AI to provide users w
 ## Screens
 <img src="https://github.com/Rohit-554/AIPitara/assets/48874687/4a9aeecd-488c-44ee-a92d-9c3ea9b3dc2f" width="200" height="450">
 
+## Video
+https://github.com/Rohit-554/AIPitara/assets/48874687/3ad29268-dda5-4529-855f-846927a576ff
 
+## Progress
+1. Project init & dependencies initialized
+
+## Works 
+1. Implmenting each page for different tests
+2. Implmenting ScoreBoard
+3. TBD
 
 ## Installation
 
