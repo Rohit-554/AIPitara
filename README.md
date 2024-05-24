@@ -1,4 +1,4 @@
-# Pitara - The new way to learn
+# AIPitara - The new way to learn
 
 Pitara is a Flutter-based mobile application that utilizes AI to provide users with quiz questions from various subjects like Data Structures and Algorithms (DSA), Object-Oriented Programming (OOPs), and more. It aims to help users enhance their knowledge and skills in these areas through engaging quizzes and interactive learning experiences.
 
@@ -12,7 +12,7 @@ Pitara is a Flutter-based mobile application that utilizes AI to provide users w
 
 ## Installation
 
-To install [Your Application Name], follow these steps:
+To install AIPitara, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
