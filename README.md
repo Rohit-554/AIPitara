@@ -10,6 +10,11 @@ Pitara is a Flutter-based mobile application that utilizes AI to provide users w
 - **Progress Tracking:** Keep track of your quiz performance and monitor your progress over time.
 - **Customizable Settings:** Tailor your quiz experience with customizable settings such as difficulty level and question categories.
 
+## Screens
+<img src="https://github.com/Rohit-554/AIPitara/assets/48874687/4a9aeecd-488c-44ee-a92d-9c3ea9b3dc2f" width="200" height="450">
+
+
+
 ## Installation
 
 To install AIPitara, follow these steps:
